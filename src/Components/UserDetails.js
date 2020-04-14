@@ -18,6 +18,7 @@ class UserDetails extends Component {
             <MuiThemeProvider>
                 <>
                    <AppBar title="Enter user details "/> 
+                   <h2> Step 1 </h2>
                    <TextField 
                    hintText="Enter your first name"
                    floatingLabelText="First name"

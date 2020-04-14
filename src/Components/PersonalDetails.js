@@ -24,6 +24,7 @@ class PersonalDetails extends Component {
             <MuiThemeProvider>
                 <>
                    <AppBar title="Personal details "/> 
+                   <h2> Step 2</h2>
                    <TextField 
                    hintText="Enter your occupation"
                    floatingLabelText="occupation"
